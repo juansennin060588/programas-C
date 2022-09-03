@@ -1,0 +1,44 @@
+//Primer Programa en Lenguaje C. Hola Mundo.
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+
+    printf("\n\t------------------------------------------------------");
+    printf("\n\t|                                                    |");
+    printf("\n\t|          Primer Programa en Lenguaje C             |");
+    printf("\n\t|                                                    |");
+    printf("\n\t------------------------------------------------------");
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+
+    printf("\n\t\t\t\t [0 _ 0]  ");
+    
+    printf("\n\t Procesando...");
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+
+    printf("\n\t HOLA MUNDO!!  :) ");
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+
+    printf("\n\t El Programa ha Finalizado   :D ");
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+
+    return 0;
+
+}
